@@ -2,10 +2,6 @@
 
 Este projeto é back-end de Authenticação de usuarios, usando JWT
 
-/auth/facebook = login using facebook
-
-/auth/google = login using google
-
 /auth/register = {Email, password} JSON
 
 /auth/login = {Email, password} JSON
